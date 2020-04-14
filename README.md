@@ -1,9 +1,7 @@
-## Aplicación de un web server
+## Aplicación de un web server HEROKU, HBS, express
 
 Ejecutar ```npm install``` para las librerias
 
-### Ejemplo:
 
-```
-node app -d "Porlamar, Venezuela"
-```
+
+
